@@ -151,6 +151,7 @@ nav a:hover {
     text-align: center;
     margin: 30px auto 0;
     font-size: 20px;
+    transition: all 1s;
 }
 
 .register1sen a:hover {
@@ -185,6 +186,7 @@ nav a:hover {
     text-align: center;
     margin: 10px auto 0;
     font-size: 20px;
+    transition: all 1s;
 }
 
 .register2sen a:hover {
@@ -270,7 +272,7 @@ nav a:hover {
     font-size: 0.85rem;
     font-weight: bold;
     text-align: center;
-    transition: transform 0.2s, opacity 0.2s;
+    transition: all 1s;
 }
 
 .course a:hover {
