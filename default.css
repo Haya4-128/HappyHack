@@ -446,6 +446,7 @@ footer{
     }
     .contents {
         max-width: 768px;
+        padding: 20px;
     }
     .course img {
         width: 37%;
@@ -462,6 +463,9 @@ footer{
     }
     #access iframe {
     width: 100%;
+    }
+    nav {
+        display: none;
     }
     
 
