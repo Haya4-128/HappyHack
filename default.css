@@ -75,15 +75,15 @@ nav a:hover {
 
 .logo img {
     display: block;
-    max-width: 900px;
-    width: 70%;
+    max-width: 1000px;
+    width: 90%;
 }
 
 .logo p{
     font-family: 'Futura3', sans-serif;
     color: white;
     text-align: center;
-    font-size: 37px;
+    font-size: 44px;
     margin-top: 20px;
 }
 
@@ -93,8 +93,7 @@ nav a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 80px;
-    padding-bottom: 20px;
+    padding: 80px 24px 20px;
 }
 
 #introduction h2 {
@@ -103,7 +102,7 @@ nav a:hover {
     text-align: center;
     font-size: 55px;
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 40px;
 }
 
 .register1, .register2{
